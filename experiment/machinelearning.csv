@@ -1,0 +1,6 @@
+MCQ,Choices,Correct
+What is the main goal of machine learning?,a: To perform tasks with explicit instructions | b: To learn from data and generalize to unseen data | c: To ignore data and make random predictions | d: To memorize data without understanding,b
+Which field of study is closely related to machine learning?,a: Data mining | b: Robot learning | c: Genetic algorithms | d: Belief functions,a
+What is the purpose of supervised learning?,a: To find structures in unlabeled data | b: To predict outputs based on labeled data | c: To interact with a dynamic environment | d: To discover hidden patterns in data,b
+Which model is inspired by the biological neural networks in animal brains?,a: Decision trees | b: Support-vector machines | c: Artificial neural networks | d: Gaussian processes,c
+What is the goal of federated learning?,a: To centralize the training process | b: To send user data to a centralized server | c: To maintain user privacy during model training | d: To decrease efficiency by training on many devices,c
