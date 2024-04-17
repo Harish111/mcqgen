@@ -14,7 +14,7 @@ def read_file(file):
             return text
         except Exception as e :
             raise Exception("error reading the PDF file")
-    elif file.name.endswit(".txt"):
+    elif file.name.endswith(".txt"):
         return file.read().decode("utf-8")
     else:
         raise Exception("Unsupported file format only PDF and txt is supported")
